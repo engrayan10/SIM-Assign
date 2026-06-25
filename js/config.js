@@ -8,8 +8,8 @@
 // 4. Copy "anon public" key and paste below as SUPABASE_ANON_KEY
 // ============================================================================
 
-const SUPABASE_URL = "https://nbhewigvmzbziomyysiy.supabase.co";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5iaGV3aWd2bXpiemlvbXl5c2l5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE2MjA4MDYsImV4cCI6MjA5NzE5NjgwNn0.F0iQ0cNOgcsIXiPgNZ10V0cH75_85kteWTJDQ97D8og";
+const SUPABASE_URL = "https://smolwtrjknyvieotbebg.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNtb2x3dHJqa255dmllb3RiZWJnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI0MTM2MzEsImV4cCI6MjA5Nzk4OTYzMX0.mg5s3HnMPNaqUUVV5OI1u9_OxitxepbJylwRpSdQXl8";
 
 // Used to build a fake-but-valid email behind the scenes from a payroll
 // number, since Supabase Auth requires an email format. Users never see
